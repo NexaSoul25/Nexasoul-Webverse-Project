@@ -6,23 +6,6 @@ A clean, beginner-friendly single-page web application created for the **NexaSou
 
 ---
 
-## 🎓 Bootcamp Curriculum & Workshop Strategy
-
-This repository serves a dual purpose for instructors and students:
-
-### 1️⃣ Phase 1: Learn to Build with AI (AI Prompting & Fundamentals)
-Instructors will demonstrate how to build this exact base website step-by-step using **AI Assistance**:
-- Teaching how to prompt AI for semantic HTML structure.
-- Understanding CSS variables, flexbox, and responsive card layouts.
-- Explaining JavaScript DOM selection, event listeners, arrays, and scoring algorithms.
-
-### 2️⃣ Phase 2: Mini UI/UX Challenge (Redesign & Edit to Win!)
-After building the base version, students enter the **Mini UI/UX Challenge**:
-- Students are challenged to modify, customize, and redesign the base template using what they learned.
-- **Goal:** Create the **coolest, most creative UI/UX overhaul**!
-- **Prizes:** Winner Recognition + Goodies + Certificate of Merit 🏆
-
----
 
 ## 📌 Project Features
 
